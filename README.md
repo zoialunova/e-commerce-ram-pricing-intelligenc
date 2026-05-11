@@ -24,6 +24,8 @@ Analysis of the DDR memory market based on eBay listings data.
 
 Python · Pandas · SQL · Tableau Public
 
+**Tableau dashboard:** https://public.tableau.com/app/profile/zoia.lunova/viz/DASHBOARD_RAW/Dashboard1
+
 ## Data source
 
 [E-Commerce RAM Pricing Intelligence 2026](https://www.kaggle.com/datasets/kanchana1990/e-commerce-ram-pricing-intelligence-2026) by Kanchana Karunarathna · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
